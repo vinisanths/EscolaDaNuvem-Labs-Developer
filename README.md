@@ -9,8 +9,9 @@ Este repositório contém os **labs práticos** realizados durante a formação 
 
 | 🔹 **Nome**                           | 🏷️ **Serviços AWS**       | 📂 **Pasta**                  |
 |--------------------------------------|-------------------------|-------------------------------|
-|  Lab AWS: Explorando o Amazon EC2 | EC2, AWS CLI                 | `Labs/AWS-CLI&EC2`        |
-|Lab AWS: Orçamentos com Budgets | AWS BUDGETS | `Labs/AWSBudgets`|
+| Lab: Explorando o Amazon EC2 | EC2, AWS CLI                 | `Labs/AWS-CLI&EC2`        |
+|Lab: Orçamentos com Budgets | AWS BUDGETS | `Labs/AWSBudgets`|
+|Lab: Automatizando o Fim de Instâncias EC2 na AWS| EventBridge, Lambda, IAM | `Lab/Lambda&EventBridge` | 
 
 
 ---
