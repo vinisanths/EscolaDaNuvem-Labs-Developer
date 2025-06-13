@@ -13,6 +13,7 @@ Este repositório contém os **labs práticos** realizados durante a formação 
 |Lab: Orçamentos com Budgets | AWS BUDGETS | `Labs/AWSBudgets`|
 |Lab: Automatizando o Fim de Instâncias EC2 na AWS| EventBridge, Lambda, IAM | `Lab/Lambda&EventBridge` |
 | Lab: Projeto de Mensageria Resiliente com AWS SNS e SQS | SNS, SQS  | `Lab/SNS&SQS` |
+|Lab: Lambda Aliases + API Gateway | Lambda, API Gateway | `Lab/Lambda&APIGateway` |
 
 
 ---
