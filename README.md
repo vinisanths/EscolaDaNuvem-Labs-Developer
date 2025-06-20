@@ -14,7 +14,8 @@ Este repositório contém os **labs práticos** realizados durante a formação 
 |Lab: Automatizando o Fim de Instâncias EC2 na AWS| EventBridge, Lambda, IAM | `Lab/Lambda&EventBridge` |
 | Lab: Projeto de Mensageria Resiliente com AWS SNS e SQS | SNS, SQS  | `Lab/SNS&SQS` |
 |Lab: Lambda Aliases + API Gateway | Lambda, API Gateway | `Lab/Lambda&APIGateway` |
-| Lab: Jogo de Adivinhação Serverless com AWS | Lambda, API Gateway, S3  | `Labs\GameLambdaS3&APIGateway` |
+| Lab: Jogo de Adivinhação Serverless com AWS | Lambda, API Gateway, S3  | `Lab/GameLambdaS3&APIGateway` |
+| Lab: Gerenciamento Seguro de Parâmetros com SSM Parameter Store e KMS (CLI) | SSM Parameter Store, KMS, CLI | `Lab/SSMParameterStore&KMS` |
 
 
 ---
