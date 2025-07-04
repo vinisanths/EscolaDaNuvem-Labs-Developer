@@ -16,6 +16,7 @@ Este repositório contém os **labs práticos** realizados durante a formação 
 |Lab: Lambda Aliases + API Gateway | Lambda, API Gateway | `Lab/Lambda&APIGateway` |
 | Lab: Jogo de Adivinhação Serverless com AWS | Lambda, API Gateway, S3  | `Lab/GameLambdaS3&APIGateway` |
 | Lab: Gerenciamento Seguro de Parâmetros com SSM Parameter Store e KMS (CLI) | SSM Parameter Store, KMS, CLI | `Lab/SSMParameterStore&KMS` |
+| Lab: Otimização do DynamoDB com Índices (LSI & GSI) | DynamoDB | `Lab/DynamoLSI&GSI`|
 
 
 ---
