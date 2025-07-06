@@ -17,6 +17,7 @@ Este repositório contém os **labs práticos** realizados durante a formação 
 | Lab: Jogo de Adivinhação Serverless com AWS | Lambda, API Gateway, S3  | `Lab/GameLambdaS3&APIGateway` |
 | Lab: Gerenciamento Seguro de Parâmetros com SSM Parameter Store e KMS (CLI) | SSM Parameter Store, KMS, CLI | `Lab/SSMParameterStore&KMS` |
 | Lab: Otimização do DynamoDB com Índices (LSI & GSI) | DynamoDB | `Lab/DynamoLSI&GSI`|
+| Lab: Aplicação CRUD Serverless na AWS com Python | Lambda, IAM, API Gateway, DynamoDB, S3, CloudWatch | `Lab/CRUDServelessAWS` |
 
 
 ---
