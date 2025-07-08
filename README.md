@@ -18,7 +18,8 @@ Este repositório contém os **labs práticos** realizados durante a formação 
 | Lab: Gerenciamento Seguro de Parâmetros com SSM Parameter Store e KMS (CLI) | SSM Parameter Store, KMS, CLI | `Lab/SSMParameterStore&KMS` |
 | Lab: Otimização do DynamoDB com Índices (LSI & GSI) | DynamoDB | `Lab/DynamoLSI&GSI`|
 | Lab: Aplicação CRUD Serverless na AWS com Python | Lambda, IAM, API Gateway, DynamoDB, S3, CloudWatch | `Lab/CRUDServelessAWS` |
-| Lab: Monitoramento e Auditoria na AWS | EC2, CloudTrail, SNS, S3, CoudWatch, MobaXterm | `lab/MonitoramentoAWS` |
+| Lab: Monitoramento e Auditoria na AWS | EC2, CloudTrail, SNS, S3, CoudWatch, MobaXterm | `lab/MonitoramentoAWS` 
+| Lab: Aplicações com AWS Elastic Beanstalk | Elastic Beanstalk, IAM, CloudFormation | `Lab/AppBeanstalk` |
 
 
 ---
