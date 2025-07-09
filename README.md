@@ -19,7 +19,8 @@ Este repositório contém os **labs práticos** realizados durante a formação 
 | Lab: Otimização do DynamoDB com Índices (LSI & GSI) | DynamoDB | `Lab/DynamoLSI&GSI`|
 | Lab: Aplicação CRUD Serverless na AWS com Python | Lambda, IAM, API Gateway, DynamoDB, S3, CloudWatch | `Lab/CRUDServelessAWS` |
 | Lab: Monitoramento e Auditoria na AWS | EC2, CloudTrail, SNS, S3, CoudWatch, MobaXterm | `lab/MonitoramentoAWS` 
-| Lab: Aplicações com AWS Elastic Beanstalk | Elastic Beanstalk, IAM, CloudFormation | `Lab/AppBeanstalk` |
+| Lab: Aplicações com AWS Elastic Beanstalk | Elastic Beanstalk, IAM, CloudFormation | `Lab/AppBeanstalk` 
+| Lab: Arquitetura Fan-Out com AWS (SNS, SQS, Lambda) | SNS, Lambda, SQS, IAM, CloudWatch | `Lab/FanOutSNS,SQS&Lambda` |
 
 
 ---
