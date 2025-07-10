@@ -21,6 +21,7 @@ Este repositório contém os **labs práticos** realizados durante a formação 
 | Lab: Monitoramento e Auditoria na AWS | EC2, CloudTrail, SNS, S3, CoudWatch, MobaXterm | `lab/MonitoramentoAWS` 
 | Lab: Aplicações com AWS Elastic Beanstalk | Elastic Beanstalk, IAM, CloudFormation | `Lab/AppBeanstalk` 
 | Lab: Arquitetura Fan-Out com AWS (SNS, SQS, Lambda) | SNS, Lambda, SQS, IAM, CloudWatch | `Lab/FanOutSNS,SQS&Lambda` |
+| Lab: AWS Security Token Service (STS) com Python | Python, AWS CLI, Boto3, IAM, STS, Cloud Shell | `Lab/STSComPython` |
 
 
 ---
